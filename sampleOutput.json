@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Significant prisoner swaps welcomed by Ukraine",
+            "description": "Russia and Ukraine carry out an unexpected prisoner swap involving almost 300 people - including members of the Azov Battalion.",
+            "url": "http://www.bbc.co.uk/news/live/world-62970683",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-09-22T07:07:28.8608442Z",
+            "content": "The nearly seven-month war in Ukraine has dominated the UN General Assembly, on a day when the Russian president announced a partial military mobilisation to support his war.\r\nHours earlier, Presiden… [+1146 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fat Leonard: Malaysian criminal in US Navy scandal recaptured after jail break",
+            "description": "The mastermind of a US navy scam had been on the run in Cuba and Mexico since escaping house arrest.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62976844",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D961/production/_126794655_interpol.png",
+            "publishedAt": "2022-09-22T06:07:21.8182242Z",
+            "content": "By Frances MaoBBC News\r\nA Malaysian businessman who scammed the US Navy in its biggest fraud scandal ever has been recaptured after he escaped house arrest two weeks ago.\r\nLeonard Glenn Francis, know… [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "North Korea denies supplying weapons to Russia",
+            "description": "The statement comes after the US said Moscow could purchase \"millions\" of munitions from Pyongyang.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62873987",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/140A0/production/_126808028_mediaitem126808027.jpg",
+            "publishedAt": "2022-09-22T04:22:20.2589474Z",
+            "content": "By Zubaidah Abdul JalilBBC News\r\nNorth Korea says it has never sold weapons to Russia and has no plans to do so in the future, following US reports that Moscow was turning to Pyongyang to replenish s… [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "María Belén Bernal: Ecuadorian authorities find body of missing lawyer",
+            "description": "María Belén Bernal went missing after visiting her husband - police say he is on the run.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-62990149",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD60/production/_126748344_fcb.jpg",
+            "publishedAt": "2022-09-22T04:07:21.7872229Z",
+            "content": "By James FitzGeraldBBC News\r\nEcuador's president has said a body found by authorities is that of a young female lawyer who went missing after visiting a police training school.\r\nHe named the woman as… [+1661 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Beer spill truck crash closes Florida highway",
+            "description": "A crash involving five semi-trailers caused thousands of cans of beer to spill across the road.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62990366",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28E6/production/_126807401_beer1.jpg",
+            "publishedAt": "2022-09-22T03:52:22.5366341Z",
+            "content": "A Florida highway was blocked on Wednesday by thousands of Coors Light beer cans after a crash with five semi-trailers.\r\nAll lanes were closed after the semi-trailer carrying the beer crashed into tr… [+682 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brazil election: Why it matters so much to the US",
+            "description": "The US has been taking a keen interest in who Brazil picks as its next president. Why?",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62981625",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D2C/production/_126806651_flags_reu.jpg",
+            "publishedAt": "2022-09-22T01:37:21.8336834Z",
+            "content": "By Mariana SanchesBBC News Brasil, Washington\r\nIn less than two weeks, one of the world's biggest democracies will hold what many are describing as its most important presidential election in years. … [+9661 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Zelensky calls for 'just punishment' for Russia",
+            "description": "In an impassioned UN speech, the Ukrainian leader calls for the creation of a special war tribunal.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62990141",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ADB6/production/_126807444_zelenskygrab.jpg",
+            "publishedAt": "2022-09-22T00:52:21.4208394Z",
+            "content": "By James FitzGeraldBBC News\r\nRussia must face \"just punishment\" over its invasion of Ukraine, President Volodymyr Zelensky has told the UN General Assembly in New York. \r\nIn a pre-recorded video, the… [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine conflict: Russia arrests hundreds at anti-war protests",
+            "description": "Russia's partial military call-up triggers protests - and a rush for flights to foreign destinations.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62981293",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FBF/production/_126799763_mediaitem126799762.jpg",
+            "publishedAt": "2022-09-21T18:52:20.6167319Z",
+            "content": "By Laurence Peter and Laura GozziBBC News\r\nRussian police are reported to have arrested hundreds of protesters rallying against the Kremlin's decision to call up thousands of extra troops to fight in… [+3877 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US interest rates hit 14-year high in inflation battle",
+            "description": "The US unveils another sharp rate rise as it fights to bring soaring prices under control.",
+            "url": "http://www.bbc.co.uk/news/business-62973376",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A83/production/_126791467_gettyimages-1345379831-1.jpg",
+            "publishedAt": "2022-09-21T18:22:18.3984903Z",
+            "content": "The US central bank has pushed interest rates to the highest level in almost 15 years as it fights to rein in soaring prices in the world's largest economy.\r\nThe Federal Reserve announced it was rais… [+2619 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Donald Trump hit by fraud lawsuit over family business",
+            "description": "The former US president and three of his children are hit by a fraud lawsuit after a New York investigation.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62986812",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-09-21T16:07:25.2725978Z",
+            "content": "Donald Trump and three of his children have been hit by a fraud lawsuit after a New York investigation into their family business. \r\nIt alleges that the Trump Organization committed \"numerous\" acts o… [+524 chars]"
+        }
+    ]
+}
